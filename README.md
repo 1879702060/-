@@ -21,6 +21,9 @@ https://www.kaggle.com/datasets/akhiljethwa/global-electricity-statistics
 
 如果想直接在git中运行，下面提供了mybinder方式  
 
+通过左上角的菜单选择 File > New > Terminal  
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1879702060/Data-visualization/HEAD)  
 
 ![image](https://github.com/user-attachments/assets/cdc629d1-2143-4396-a5c2-e506187e5191)  
