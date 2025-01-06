@@ -7,5 +7,9 @@
 
 streamlit run 文件名.py  
 
+数据集来源与kaggle，网址如下：  
+
+https://www.kaggle.com/datasets/akhiljethwa/global-electricity-statistics
+
 
 网页打开后，将文件拖入指点位置即可
