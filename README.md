@@ -7,7 +7,7 @@
 
 streamlit run 文件名.py  
 streamlit run 电力数据可视化.py  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1879702060/Data-visualization/HEAD)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/1879702060/Data-visualization/HEAD)
 
 
 ![image](https://github.com/user-attachments/assets/396cc1d5-c693-4f28-b410-4bf46ae56ed3)
