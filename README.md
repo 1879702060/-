@@ -6,7 +6,8 @@
 在pycharm的终端切换到项目代码的路径下-》 cd your/path  
 
 streamlit run 文件名.py  
-streamlit run 电力数据可视化.py
+streamlit run 电力数据可视化.py  
+
 ![image](https://github.com/user-attachments/assets/396cc1d5-c693-4f28-b410-4bf46ae56ed3)
 
 网页打开后，将文件拖入指点位置即可  
